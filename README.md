@@ -13,11 +13,11 @@ Source files are used in Power Query directly connecting from the folders.
 
 Operation:
 Add new workbook with shortcut method
-Create a setting sheet and put the Folder Path there and make it dynamic. (6:00 - 11:00)
-Consolidata the Data from multiple files with the help of power query in a single table. (11:00 - 15:00)
-Create a Pivot Table to make a dashboard. (15:00 - 21:00)
-Create Dashboard (21:00 - 38:00)
-Create a Tabular View (38:00 - 43:00)
+Create a setting sheet and put the Folder Path there and make it dynamic.
+Consolidata the Data from multiple files with the help of power query in a single table. 
+Create a Pivot Table to make a dashboard.
+Create Dashboard
+Create a Tabular View
 
 
 Result: Dashboard should contain 
